@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{726D6543-7527-C789-83F7-ECF19CC1ADEE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/BackButton.cs">
+    <Files>
+      <File FileName="../../Downloads/BackButton.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARME7" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8bcde69f-6933-42c7-b952-a5ecbf395882" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
